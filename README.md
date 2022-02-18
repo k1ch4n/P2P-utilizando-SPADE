@@ -8,7 +8,8 @@ Sistema P2P utilizando SPADE: Smart Python Multi-Agent Development Environment, 
 
   Docente: Dr. Yudith Cardinale
   
-  Integrantes:  Ing. Carlos Tello Tapia, 
+  Integrantes:  Ing. Carlos Tello Tapia
+  
                 Cristian Llallihuaman Calderón
                 
 +---------------------------------------------------------------------------------+
